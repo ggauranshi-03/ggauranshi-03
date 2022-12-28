@@ -133,7 +133,7 @@
 </a>
 <br><br>
 <a href="https://github.com/ggauranshi-03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggauranshi-03&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=gauranshi%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggauranshi-03&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Gauranshi%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
 </a>
 </div>
 
