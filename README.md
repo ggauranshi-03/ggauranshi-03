@@ -1,10 +1,8 @@
 ## Hey there ... I am Gauranshi Gupta 👋
 
-- 🔭 I'm currently working as Full stack and Blockchain Intern at Prodigal AI.
-- 🧓 I'm familier with programming languages like Python, C, Javascript, PHP, and Solidity.
-- 🌱 I'm currently learning Microsoft Azure and other tech. 
-- 🤔 I'm looking for help with Kubernetes on cloud platforms, and gaining Azure proficiency.  
-- 💬 Ask me about web development, SQL or NoSQL (MongoDB) database, and blockchain. 
+- 🔭 I'm a Full stack and Blockchain Developer with specialized bachelors degree in Artificial Intelligence and Data Science.
+- 🧓 I'm familier with programming languages like Python, C, C++, Java, Javascript, Solidity and Go. 
+- 💬 Ask me about web development, SQL or NoSQL (MongoDB) database, Blockchain, and AI. 
 - 📫 How to reach me: LinkedIn [@Gauranshi Gupta](https://www.linkedin.com/in/gauranshi-gupta-414865227/) or twitter [@Gupta7Gauranshi](https://twitter.com/Gupta7Gauranshi)
 - 😄 Pronouns: She/Her
 
